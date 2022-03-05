@@ -1,0 +1,64 @@
+*{
+    margin: 20px;
+    padding: 0px;
+    font-style: oblique;
+    font-size: 30px;
+    color: blue;
+    border-radius: 50%;
+}
+
+
+p{
+    text-align: center;
+    padding: 20px;
+    color: yellow;
+    background-color: blueviolet;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+.rose{
+    background-image: url(../img/r1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+.chinarose{
+    background-image: url(../img/cr1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+.merigold{
+    background-image: url(../img/mg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+.dalia{
+    background-image: url(../img/d1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+.lily{
+    background-image: url(../img/l1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+.ppp p{
+    text-align: center;
+    margin:40px;
+    padding: 40px;
+    color: aqua;
+    background-color: brown;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
